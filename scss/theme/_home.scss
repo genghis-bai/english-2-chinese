@@ -240,9 +240,9 @@
 
 .header-btn{
 	background-color:$white;
-	padding:8px 40px;
-	font-weight:600;
-	color:$black;
+	padding:8px 40px !important;
+	font-weight:600 !important;
+	color:$black !important;
   	box-shadow: 0px 20px 20px 0px rgba(0, 0, 0, 0.1);	
 	border:1px solid transparent;
 	border-radius:20px;
