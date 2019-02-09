@@ -58,6 +58,10 @@ body {
   position: relative;
 }
 
+.single-footer-widget p {
+	color: #777777;
+}
+
 ol, ul {
   margin: 0;
   padding: 0;
